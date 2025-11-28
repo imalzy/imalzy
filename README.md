@@ -71,11 +71,11 @@ A collection of exercises & practice projects as you learn new skills
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imalzy&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  [![Imalzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=imalzy)](https://github.com/imalzy/github-readme-stats)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imalzy&theme=tokyonight" alt="GitHub streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=imalzy)](https://git.io/streak-stats)
 </p>
 
 ---
@@ -87,7 +87,7 @@ A collection of exercises & practice projects as you learn new skills
   </a>
 </p>
 
-📧 Email: **your.email@example.com**
+📧 Email: **imalzaya19@gmail.com**
 
 ---
 
