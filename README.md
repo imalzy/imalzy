@@ -71,18 +71,6 @@ A collection of exercises & practice projects as you learn new skills
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  [![Imalzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=imalzy)](https://github.com/imalzy/github-readme-stats)
-</p>
-
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=imalzy)](https://git.io/streak-stats)
-</p>
-
----
-
 ## 📫 Contact Me
 <p align="left">
   <a href="https://www.linkedin.com/in/imalzy" target="_blank">
